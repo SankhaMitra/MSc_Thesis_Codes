@@ -2,15 +2,14 @@ Here I provide the codes for generating the results of my M.Sc. Thesis - "Does P
 
 Please feel free to replicate them.  
  
-The codes are shared in 2 folders - Results_Replication_R and Results_Replication_Stata
+The codes are shared in 3 folders - Results_Replication_R, Results_Replication_Stata, Python_Regression_Results
 
 Note that codes for all the results are not available in both formats. 
 All the results (regression results and figures 1-6) can be generated using STATA.
 Codes for generating the regression results and figures 1 and 2, are available in R (R-markdown)
+Codes for generating the regression results are available in Python 
 
 Note that all the results in my thesis are preliminary. Therefore, they are not to be cited. 
-
-Currently, I am trying to create a python version of the codes for replicating the regression results. On completion of the task, Python codes would be made available on this repository. 
 
 Thank You       
      
