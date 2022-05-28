@@ -1,6 +1,7 @@
 Here I provide the codes for generating the results of my M.Sc. Thesis - "Does Political Reservation in India Lead to Educational Welfare? : An Empirical Analysis of the Relationship Between Extent of Political Reservation and Construction of New Schools"  
 
-Please feel free to replicate them.  
+The datafiles have been removed from this repository (on May 28, 2022). Kindly write to sankhamitra99@gmail.com requesting access to the datafiles if you are willing to replicate the results.
+
  
 The codes are shared in 3 folders - Results_Replication_R, Results_Replication_Stata, Python_Regression_Results
 
